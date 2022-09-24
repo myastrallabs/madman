@@ -1,0 +1,2 @@
+defmodule MadmanTest do
+end
